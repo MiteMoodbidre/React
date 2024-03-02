@@ -1,2 +1,2 @@
 # React
-React Youtube
+React Youtube channel
